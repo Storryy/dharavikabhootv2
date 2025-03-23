@@ -13,6 +13,7 @@ dependencies:
   video_player: ^2.9.3
   audioplayers: ^6.4.0
   visibility_detector: ^0.4.0+2
+  flutter_colorpicker: ^1.1.0
 
 dev_dependencies:
   flutter_test:
@@ -31,10 +32,6 @@ flutter:
     - family: Variex
       fonts:
         - asset: assets/fonts/Variex.ttf
-        # - asset: assets/fonts/CONSOLAB.TTF
-        #   weight: 700
-        # - asset: assets/fonts/consolai.ttf
-        #   style: italic
-        # - asset: assets/fonts/CONSOLA.TTF
-        # - asset: assets/fonts/consolaz.ttf
-        #   weight: 900
+    - family: mvboli
+      fonts:
+        - asset: assets/fonts/mvboli.ttf
